@@ -203,15 +203,15 @@ Data source:
 LAPD Divisions – City of Los Angeles GeoHub
 https://geohub.lacity.org/datasets/lapd-divisions/explore
 
-Click to watch the interactive dashboard demo [- 
+Click to watch the interactive dashboard demo
+[- 
 https://youtu.be/6ruybptJ5Jc](https://www.youtube.com/watch?v=ePPF7NDxydA) 
 
-<img width="2344" height="1302" alt="Screenshot 2026-02-18 113617" src="https://github.com/user-attachments/assets/634b3dab-89fb-4bd7-a232-0147fad30f9e" />
+<img width="2344" height="1302" alt="Screenshot 2026-02-18 113617" src="https://github.com/user-attachments/assets/81506479-26fa-4057-90d2-f1c491fc13d8" />
 
-<img width="2330" height="1313" alt="Screenshot 2026-02-18 113921" src="https://github.com/user-attachments/assets/daaf864c-7a33-4700-aabc-c61b5a435e89" />
+<img width="2330" height="1313" alt="Screenshot 2026-02-18 113921" src="https://github.com/user-attachments/assets/b677c634-d54c-431b-a5ce-5d0f0ec0fc9d" />
 
-<img width="2337" height="1318" alt="Screenshot 2026-02-18 113948" src="https://github.com/user-attachments/assets/932f1632-1fd5-4854-a06f-4aac934e0604" />
-
+<img width="2337" height="1318" alt="Screenshot 2026-02-18 113948" src="https://github.com/user-attachments/assets/5c5f49f3-a70a-4301-a6da-13428bbfa919" />
 
 ## Key Insights & Conclusions
 
