@@ -214,59 +214,126 @@ https://youtu.be/6ruybptJ5Jc](https://www.youtube.com/watch?v=ePPF7NDxydA)
 <img width="2337" height="1318" alt="Screenshot 2026-02-18 113948" src="https://github.com/user-attachments/assets/5c5f49f3-a70a-4301-a6da-13428bbfa919" />
 
 ## Key Insights & Conclusions
+**COVID-19 Impact:** 
 
-✔ Crime dropped sharply during the first lockdown (March 2020). After restrictions were lifted, crime rebounded and stabilized at higher levels.
+✔ Crime dropped sharply during the first lockdown in March 2020.
+✔ As restrictions were lifted, crime rebounded and stabilized at higher levels.
 
-Suggests temporary mobility suppression rather than structural crime elimination.
+The decline during lockdown reflects reduced mobility and fewer social interactions — not a permanent reduction in criminal behavior.
 
+Actionable Insight:
+Crime levels are strongly influenced by mobility patterns. During periods of increased public activity (post-lockdown recovery, large events, seasonal peaks), proactive deployment strategies should be implemented in advance.
 
-✔ Central reports the highest number of crimes, Followed by 77th Street.
+**Geographic Concentration & Severity Patterns**
 
-Residential areas show the highest volume, althoug that can be missleading because when we look at Industrial areas thry show the highest severity proportion.
+✔ Central reports the highest total number of crimes, followed by 77th Street.
+✔ Residential areas show the highest crime volume overall.
+✔ However, Industrial areas exhibit the highest proportion of severe (Part I) crimes.
 
+Raw volume alone can be misleading. While residential zones experience more incidents, industrial areas carry a higher severity risk.
 
-Crime peaks during weekends, especially Fridays.
+Actionable Insight:
 
-Firearm-related crimes occur mainly between 10 PM – 5 AM.
+High-volume areas → prioritize patrol presence and preventive visibility.
 
+High-severity areas → invest in targeted surveillance, lighting, and strategic policing during peak risk hours.
+Resource allocation should be differentiated by volume vs. severity risk.
 
-Fraud increased dramatically post-COVID.
+**Temporal Patterns & High-Risk Time Windows**
 
-COVID-19 did not create fraud — it accelerated it due to:
+✔ Crime peaks during weekends, especially Fridays.
+✔ Firearm-related incidents occur primarily between 10 PM – 5 AM.
 
-Economic distress
+Crime risk increases during late-night hours and weekend social activity periods.
 
-Government relief fund opportunities
+Actionable Insight:
 
-Rapid transition to digital activity
+- Increase patrol intensity during Friday nights and weekends.
 
-Fraud shows an extremely high unsolved rate (~96%).
+- Deploy focused firearm intervention strategies in high-risk areas during late-night hours.
 
-Domestic Violence
+- Optimize shift scheduling using temporal crime concentration data.
 
-74% of victims are women.
+**Structural Shift in Crime Composition: The Rise of Fraud**
 
-Most affected age group: 31–50.
+✔ Fraud increased dramatically following COVID-19.
+✔ Fraud now shows an extremely high unsolved rate (~96%).
 
-Peaks in evening hours.
+I personally believe that COVID-19 did not create fraud — it accelerated it due to economic distress, rapid distribution of government relief funds
+and massive shift toward digital activity
 
-Seasonal increase in July–August.
+Actionable Insight:
 
-Possible explanations:
+- Invest in digital crime investigation capabilities.
+
+- Strengthen cybercrime units and inter-agency collaboration.
+
+- Launch public awareness campaigns targeting online fraud prevention.
+
+- Improve investigative processes to address extremely low clearance rates.
+
+**Domestic Violence**
+
+✔ 74% of victims are women.
+✔ Most affected age group: 31–50.
+✔ Incidents peak during evening hours.
+✔ Clear seasonal increase in July–August.
+
+Interpretation:
+Domestic violence follows predictable demographic and seasonal patterns.
+
+Potential contributing factors:
 
 Increased time at home
 
 Financial stress
 
-Higher temperatures (correlated with aggression)
+Higher summer temperatures (linked to aggressive behavior)
 
-Per 100K Crime Rates (Example: 77th Street)
+Actionable Insight:
 
-Black residents: ~6,361 per 100,000
+Increase outreach campaigns before summer peaks.
 
-Hispanic residents: ~992 per 100,000
+Reinforce hotline and support services during high-risk months.
 
-(Important: Demographic data represents victims only, not offenders.)
+Allocate social intervention resources in advance of seasonal spikes.
+
+6️⃣ Demographic Impact (Per 100K Population – Example: 77th Street)
+
+✔ Black residents: ~6,361 victims per 100,000
+✔ Hispanic residents: ~992 victims per 100,000
+
+(Important: These figures describe victims, not offenders.)
+
+Interpretation:
+Per-capita rates reveal disparities that raw counts alone may obscure.
+
+Actionable Insight:
+
+Develop targeted prevention programs in disproportionately affected communities.
+
+Strengthen community-based safety initiatives.
+
+Use per-capita analysis — not raw totals — for equitable policy planning.
+
+Overall Conclusion
+
+Crime patterns in Los Angeles are not random — they follow identifiable geographic, temporal, demographic, and structural trends.
+
+By shifting from reactive reporting to proactive, data-driven resource allocation, city leadership can:
+
+Optimize patrol deployment
+
+Anticipate high-risk periods
+
+Address emerging digital crime trends
+
+Design targeted prevention strategies
+
+Allocate limited resources more efficiently
+
+Data enables the transition from reacting to crime to strategically preventing it.
+(Note: Demographic data represents victims only, not offenders.)
 ---
 
 ## Future Work
