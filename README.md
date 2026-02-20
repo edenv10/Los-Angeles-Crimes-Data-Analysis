@@ -158,27 +158,41 @@ Hispanic, White, Black, Asian, and Other.
 These transformations significantly reduced dimensional complexity while preserving analytical meaning, allowing clearer trend detection, improved dashboard readability, and more actionable insights.
 
 ---
-Power Query Feature Engineering
+### 5️⃣ Feature Engineering (Power Query)
 
-I created additional analytical variables to enrich the data:
+To enrich analytical flexibility and enable deeper insights, additional derived features were created:
 
-- Time of Day (Morning, Afternoon, Evening, Night)
-- Hour of occurrence
-- Victim age groups (0-18, 19-30, 31-50, 51-65, 65+)
-- Report Lag (days between occurrence and report date)
-- Population data per ethnic group (to calculate per-100K victimization rates)
+- Time of Day Classification
+(Morning, Afternoon, Evening, Night)
 
-Population reference:
-https://en.wikipedia.org/wiki/Los_Angeles
+- Hour of Occurrence
+
+- Victim Age Groups
+(0–18, 19–30, 31–50, 51–65, 65+)
+
+- Report Lag = date_occ - date_rptd 
+(Days between crime occurrence and police report)
+
+- Population Data Integration
+Added population per demographic group to calculate per-100K victimization rates, enabling normalized comparative analysis rather than raw counts.
+Source: https://en.wikipedia.org/wiki/Los_Angeles
 
 ---
 ## Data Modeling
-I created A star schema:
-- Centralized FactCrime table
-- One-to-many dimension relationships
-- Dedicated Calendar dimension for time intelligence (YoY comparisons)
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/633599ae-8f3d-4049-b6c2-dbf28ebe8eda" />
- 
+
+To enable scalable analysis and efficient reporting, I designed the dataset using a star schema architecture.
+
+The model consists of:
+
+- A centralized FactCrime table containing all measurable crime events
+
+- Multiple connected dimension tables
+
+- One-to-many relationships between each dimension and the fact table
+
+- A dedicated Calendar dimension to support advanced time intelligence analysis
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/0759f093-bf2a-406e-a88a-75c8eb597eef" />
+
 
 ## Power BI
 - Developed interactive dashboards with cross-filtering and drill-through analysis.
