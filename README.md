@@ -213,7 +213,7 @@ https://youtu.be/6ruybptJ5Jc](https://www.youtube.com/watch?v=ePPF7NDxydA)
 
 <img width="2337" height="1318" alt="Screenshot 2026-02-18 113948" src="https://github.com/user-attachments/assets/5c5f49f3-a70a-4301-a6da-13428bbfa919" />
 
-## 📊 Key Insights & Strategic Conclusions
+## 📊 Key Insights & Conclusions
 **COVID-19**
 - The Lockdown Dip: Crime dropped sharply during the initial March 2020 lockdown, directly correlating with reduced human mobility and social interaction.
 
