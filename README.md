@@ -214,65 +214,51 @@ https://youtu.be/6ruybptJ5Jc](https://www.youtube.com/watch?v=ePPF7NDxydA)
 <img width="2337" height="1318" alt="Screenshot 2026-02-18 113948" src="https://github.com/user-attachments/assets/5c5f49f3-a70a-4301-a6da-13428bbfa919" />
 
 ## 📊 Key Insights & Strategic Conclusions
-**COVID-19 Impact:**
-* The Lockdown Dip: Crime dropped sharply during the initial March 2020 lockdown, directly correlating with reduced human mobility and social interaction.
+**COVID-19**
+- The Lockdown Dip: Crime dropped sharply during the initial March 2020 lockdown, directly correlating with reduced human mobility and social interaction.
 
-* The Rebound: As restrictions lifted, crime stabilized at a higher "new normal" baseline, suggesting the lockdown provided a temporary pause rather than a permanent reduction in criminal behavior.
+- The Rebound: As restrictions lifted, crime stabilized at a higher "new normal" baseline, suggesting the lockdown provided a temporary pause rather than a permanent reduction in criminal behavior.
 
-* Strategic Takeaway: Crime levels in LA are strongly influenced by mobility patterns. Police deployment should be scaled in anticipation of increased public activity (e.g., post-lockdown recovery, major seasonal events).
+- Strategic Takeaway: Crime levels in LA are strongly influenced by mobility patterns. Police deployment should be scaled in anticipation of increased public activity (e.g., post-lockdown recovery, major seasonal events).
 
-**Geographic & Severity Analysis**
-- Volume vs. Risk: While the Central area reports the highest total volume and Residential premises see the most incidents, Industrial areas exhibit the highest proportion of Part I (Serious) crimes.
+**Geographic Hotspots & Severity Patterns**
+- Central reports the highest total number of crimes, followed by 77th Street. 
+- Residential areas show the highest crime volume overall.
 
-- Strategic Takeaway: * High-Volume Areas: Prioritize preventive patrol visibility.
+- Strategic Takeaway:
+   - High-Volume Areas: Prioritize preventive patrol visibility.
 
-- High-Severity Areas: Invest in targeted surveillance and infrastructure (e.g., improved lighting) specifically in industrial zones.
+   - High-Severity Areas: Invest in targeted surveillance and infrastructure (e.g., improved lighting) specifically in industrial zones.
 
-**Temporal Patterns & Risk Windows**
+**Temporal Patterns & High-Risk Time Windows**
 - Weekend Peaks: Crime density significantly increases during weekends, specifically peaking on Fridays.
 
 - The Late-Night Window: Firearm-related incidents are concentrated between 10 PM and 5 AM.
 
 - Strategic Takeaway: Optimize shift scheduling to increase patrol intensity during the "Friday-Night-Weekend" window. Focused firearm intervention strategies should be prioritized during late-night hours.
 
-**The Digital Shift: Structural Rise in Fraud**
-Accelerated Growth: Fraud incidents surged following the pandemic. This was likely accelerated by economic distress and the massive shift toward digital financial activity.
+**Structural Shift in Crime Composition: The Rise of Fraud**
+- Accelerated Growth: Fraud incidents surged following the pandemic. This was likely accelerated by economic distress and the massive shift toward digital financial activity.
 
-The Enforcement Gap: Fraud currently maintains an extremely high unsolved rate (~96%).
+- The Enforcement Gap: Fraud currently maintains an extremely high unsolved rate (~96%).
 
-Strategic Takeaway: There is a critical need to invest in cybercrime units and digital investigation capabilities. The low clearance rate suggests that current investigative processes are not scaled to handle the volume of digital-first crime.
+- Strategic Takeaway: There is a critical need to invest in cybercrime units and digital investigation capabilities. The low clearance rate suggests that current investigative processes are not scaled to handle the volume of digital-first crime.
 
 **Domestic Violence: Demographic & Seasonal Trends**
-- 74% of victims are women.
-- Most affected age group: 31–50.
-- Incidents peak during evening hours.
-- Clear seasonal increase during July–August.
+- Victim Profile: Approximately 74% of victims are women, with the 31–50 age group being the most affected.
 
-Potential contributing factors include increased time at home, and higher summer temperatures (linked in research to increased aggression).
+- Seasonal Peaks: Data shows a clear spike in incidents during July and August, potentially linked to higher temperatures and increased time at home.
 
-Actionable Insight:
-
-✔ Launch awareness campaigns before seasonal peaks.
-
-✔ Reinforce support hotlines and intervention services during high-risk months.
-
-✔ Allocate social service resources proactively during summer periods.
+- Strategic Takeaway: Public health and safety outreach should be pre-emptively reinforced before the summer peak. Social intervention resources should be allocated based on these predictable seasonal cycles.
 
 **Demographic Impact (Per 100K Population – Example: 77th Street)**
+Note: These figures represent victimization rates, identifying which communities are most at risk, not offender data.
 
-- Black residents: ~6,361 victims per 100,000
+- Disparity Analysis: In areas like 77th Street, victimization rates per 100k population show significant disparities, with Black residents experiencing a rate of ~6,361 compared to ~992 for Hispanic residents.
 
-- Hispanic residents: ~992 victims per 100,000
+- Strategic Takeaway: Per-capita analysis—rather than raw totals—must be used for equitable policy planning. This data supports the development of targeted prevention and community-based safety initiatives in disproportionately affected areas.
 
-(Note: These figures represent victims, not offenders.)
-
-Actionable Insight:
-
-✔ Develop targeted prevention initiatives in disproportionately affected communities.
-
-✔ Strengthen community-based safety programs.
-
-Final Conclusion
+**Final Conclusion**
 Crime in Los Angeles is not random; it follows identifiable geographic, temporal, and structural trends. This project demonstrates that by shifting from reactive reporting to proactive, data-driven resource allocation, city leadership can:
 
 ✔ Optimize patrol deployment based on time and severity.
