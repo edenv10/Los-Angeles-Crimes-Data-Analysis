@@ -9,7 +9,7 @@
 2. [Dataset Overview](#dataset-overview)
 3. [Data Cleaning & Preparation](#data-cleaning--preparation)
 4. [Data Modeling](#data-modeling)
-5. [Key Insights & Conclusions](#key-insights--conclusions)
+5. [Key Insights & Conclusions](#📊-key-insights--conclusions)
 6. [Future Work](#Future-Work)
 
 ---
