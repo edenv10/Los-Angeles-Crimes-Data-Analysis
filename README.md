@@ -1,4 +1,4 @@
-# Los Angeles Crime Analysis: An End-to-End BI Project (Raw Data → Modeling → Dashboard)
+# Los Angeles Crime Analysis: An End-to-End BI Project
 ## Trends, Patterns, and Insights
 
 ---
