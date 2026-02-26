@@ -197,14 +197,13 @@ The model consists of:
 ## Power BI Dashboard 
 - Developed interactive dashboards with cross-filtering and drill-through analysis.
 
-- to built a custom area-level map visualization i used the LAPD Devisons 
+- To built a custom area-level map visualization i used the LAPD Devisons 
 
 Data source:
 LAPD Divisions – City of Los Angeles GeoHub
 https://geohub.lacity.org/datasets/lapd-divisions/explore
 
-Click to watch the interactive dashboard demo
-[- 
+### Click to watch the interactive dashboard demo 
 https://youtu.be/6ruybptJ5Jc](https://www.youtube.com/watch?v=ePPF7NDxydA) 
 
 <img width="2344" height="1302" alt="Screenshot 2026-02-18 113617" src="https://github.com/user-attachments/assets/81506479-26fa-4057-90d2-f1c491fc13d8" />
