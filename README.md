@@ -222,7 +222,7 @@ https://youtu.be/6ruybptJ5Jc](https://www.youtube.com/watch?v=ePPF7NDxydA)
 
 **Geographic Hotspots & Severity Patterns**
 - Central reports the highest total number of crimes, followed by 77th Street. 
-- Residential areas show the highest crime volume overall.
+- Residential areas experience the highest overall crime volume, while industrial areas exhibit the highest proportion of serious crimes.
 
 - Strategic Takeaway:
    - High-Volume Areas: Prioritize preventive patrol visibility.
